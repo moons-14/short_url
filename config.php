@@ -23,7 +23,8 @@ $db_password='';
 $api='off';//APIを実装する場合offの部分をonにしてください
 
 //recaptchaの情報
-$recaptcha='off';//オフにする場合offの部分をonにしてください
+
+$recaptcha='off';//オンにする場合offの部分をonにしてください
 //以下の情報は必要に応じて変更してください
 $site_key='';//サイトキー
 $secret_key='';//シークレットキー
